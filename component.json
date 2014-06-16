@@ -1,0 +1,13 @@
+{
+  "name": "react-image",
+  "repository": "enome-components/react-image",
+  "scripts": [
+    "index.js"
+  ],
+  "files": [
+    "image.jpg"
+  ],
+  "dependencies": {
+    "enome-components/react": "*"
+  }
+}
