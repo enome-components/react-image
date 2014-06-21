@@ -1,6 +1,6 @@
 /** @jsx React.DOM */
 
-import React from 'react';
+import React from 'react/react.js';
 
 var Component = React.createClass({
 
