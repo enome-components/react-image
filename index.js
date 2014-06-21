@@ -11,7 +11,7 @@ var Component = React.createClass({
   /* RENDER */
 
   render: function () {
-    return <img src='react-image/image.jpg' />;
+    return <img src='/build/react-image/image.jpg' />;
   },
 
 });
