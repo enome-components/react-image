@@ -1,0 +1,16 @@
+{
+  "name": "react-image",
+  "version": "0.0.0",
+  "main": [
+    "index.js",
+    "image.jpg"
+  ],
+  "homepage": "https://github.com/enome-components/react-image",
+  "authors": [
+    "enome <geert.pasteels@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "react": "~0.10.0"
+  }
+}
